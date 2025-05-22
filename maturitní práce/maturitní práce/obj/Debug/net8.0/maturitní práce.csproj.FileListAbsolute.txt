@@ -1,0 +1,28 @@
+C:\Users\jirib\source\repos\maturitní práce\maturitní práce\obj\Debug\net8.0\maturitní práce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jirib\source\repos\maturitní práce\maturitní práce\obj\Debug\net8.0\maturitní práce.AssemblyInfoInputs.cache
+C:\Users\jirib\source\repos\maturitní práce\maturitní práce\obj\Debug\net8.0\maturitní práce.AssemblyInfo.cs
+C:\Users\jirib\source\repos\maturitní práce\maturitní práce\obj\Debug\net8.0\maturitní práce.csproj.CoreCompileInputs.cache
+C:\Users\jirib\source\repos\maturitní práce\maturitní práce\bin\Debug\net8.0\maturitní práce.exe
+C:\Users\jirib\source\repos\maturitní práce\maturitní práce\bin\Debug\net8.0\maturitní práce.deps.json
+C:\Users\jirib\source\repos\maturitní práce\maturitní práce\bin\Debug\net8.0\maturitní práce.runtimeconfig.json
+C:\Users\jirib\source\repos\maturitní práce\maturitní práce\bin\Debug\net8.0\maturitní práce.dll
+C:\Users\jirib\source\repos\maturitní práce\maturitní práce\bin\Debug\net8.0\maturitní práce.pdb
+C:\Users\jirib\source\repos\maturitní práce\maturitní práce\obj\Debug\net8.0\maturitní práce.dll
+C:\Users\jirib\source\repos\maturitní práce\maturitní práce\obj\Debug\net8.0\refint\maturitní práce.dll
+C:\Users\jirib\source\repos\maturitní práce\maturitní práce\obj\Debug\net8.0\maturitní práce.pdb
+C:\Users\jirib\source\repos\maturitní práce\maturitní práce\obj\Debug\net8.0\maturitní práce.genruntimeconfig.cache
+C:\Users\jirib\source\repos\maturitní práce\maturitní práce\obj\Debug\net8.0\ref\maturitní práce.dll
+C:\Users\jirib\Desktop\maturita honza\maturitní práce\maturitní práce\obj\Debug\net8.0\maturitní práce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jirib\Desktop\maturita honza\maturitní práce\maturitní práce\obj\Debug\net8.0\maturitní práce.AssemblyInfoInputs.cache
+C:\Users\jirib\Desktop\maturita honza\maturitní práce\maturitní práce\obj\Debug\net8.0\maturitní práce.AssemblyInfo.cs
+C:\Users\jirib\Desktop\maturita honza\maturitní práce\maturitní práce\obj\Debug\net8.0\maturitní práce.csproj.CoreCompileInputs.cache
+C:\Users\jirib\Desktop\maturita honza\maturitní práce\maturitní práce\obj\Debug\net8.0\maturitní práce.dll
+C:\Users\jirib\Desktop\maturita honza\maturitní práce\maturitní práce\obj\Debug\net8.0\refint\maturitní práce.dll
+C:\Users\jirib\Desktop\maturita honza\maturitní práce\maturitní práce\obj\Debug\net8.0\maturitní práce.pdb
+C:\Users\jirib\Desktop\maturita honza\maturitní práce\maturitní práce\bin\Debug\net8.0\maturitní práce.exe
+C:\Users\jirib\Desktop\maturita honza\maturitní práce\maturitní práce\bin\Debug\net8.0\maturitní práce.deps.json
+C:\Users\jirib\Desktop\maturita honza\maturitní práce\maturitní práce\bin\Debug\net8.0\maturitní práce.runtimeconfig.json
+C:\Users\jirib\Desktop\maturita honza\maturitní práce\maturitní práce\bin\Debug\net8.0\maturitní práce.dll
+C:\Users\jirib\Desktop\maturita honza\maturitní práce\maturitní práce\bin\Debug\net8.0\maturitní práce.pdb
+C:\Users\jirib\Desktop\maturita honza\maturitní práce\maturitní práce\obj\Debug\net8.0\maturitní práce.genruntimeconfig.cache
+C:\Users\jirib\Desktop\maturita honza\maturitní práce\maturitní práce\obj\Debug\net8.0\ref\maturitní práce.dll
